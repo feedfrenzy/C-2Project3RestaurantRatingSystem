@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3", "Project3\Project3.csproj", "{997FF36F-0912-483F-BB09-97480706B2D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "Project3\Utilities\Utilities.csproj", "{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestaurantClass", "RestaurantClass\RestaurantClass.csproj", "{19FC5C99-FEE7-484B-B8D9-2047B419A749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997FF36F-0912-483F-BB09-97480706B2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997FF36F-0912-483F-BB09-97480706B2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997FF36F-0912-483F-BB09-97480706B2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997FF36F-0912-483F-BB09-97480706B2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6224A378-EEF4-4EE0-A009-AC8CE1260CB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19FC5C99-FEE7-484B-B8D9-2047B419A749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19FC5C99-FEE7-484B-B8D9-2047B419A749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19FC5C99-FEE7-484B-B8D9-2047B419A749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19FC5C99-FEE7-484B-B8D9-2047B419A749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

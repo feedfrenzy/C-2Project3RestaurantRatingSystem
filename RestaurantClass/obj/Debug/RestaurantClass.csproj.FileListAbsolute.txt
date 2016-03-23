@@ -1,0 +1,5 @@
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3342\Project3\RestaurantClass\obj\Debug\RestaurantClass.csprojResolveAssemblyReference.cache
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3342\Project3\RestaurantClass\bin\Debug\RestaurantClass.dll
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3342\Project3\RestaurantClass\bin\Debug\RestaurantClass.pdb
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3342\Project3\RestaurantClass\obj\Debug\RestaurantClass.dll
+C:\Users\Feed_\OneDrive\Documents\Visual Studio 2012\Projects\CIS 3342\Project3\RestaurantClass\obj\Debug\RestaurantClass.pdb
